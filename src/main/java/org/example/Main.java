@@ -2,6 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("My JavaApp");
+        System.out.println("Iksanov");
+        System.out.println("Ilyas");
     }
 }
